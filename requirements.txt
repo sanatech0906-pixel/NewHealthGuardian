@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+pandas
+numpy
+pymupdf
+pytesseract
+Pillow
+python-multipart
+sqlalchemy
